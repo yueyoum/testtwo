@@ -1,4 +1,4 @@
-module pptwo
+module github.com/yueyoum/pptwo
 
 go 1.13
 
