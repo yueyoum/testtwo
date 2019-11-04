@@ -1,4 +1,4 @@
-package pptwo
+package haha
 
 import (
 	"fmt"
@@ -7,6 +7,6 @@ import (
 
 // PrintSelf ...
 func PrintSelf() {
-	fmt.Println("pptwo")
+	fmt.Println("haha")
 	ppone.PrintSelf()
 }
