@@ -7,6 +7,6 @@ import (
 
 // PrintSelf ...
 func PrintSelf() {
-	fmt.Println("haha")
+	fmt.Println("haha 1.0.5")
 	ppone.PrintSelf()
 }
